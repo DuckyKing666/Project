@@ -48,7 +48,7 @@ footer {
 }
 
 .art img {
-  max-width: 60%;
+  width: 400px;
   height: auto;
   border-radius: 12px;
 }
@@ -59,4 +59,5 @@ footer {
   color: #777;
   font-style: italic;
 }
+
 
