@@ -21,6 +21,24 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.art {
+  text-align: center;
+  margin: 40px auto;
+}
+
+.art img {
+  width: 400px;
+  height: auto;
+  border-radius: 12px;
+}
+
+.art figcaption {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #777;
+  font-style: italic;
+}
+
 .gallery {
     display: flex;
     flex-wrap: wrap;
@@ -42,22 +60,7 @@ footer {
     color: white;
 }
 
-.art {
-  text-align: center;
-  margin: 40px auto;
-}
 
-.art img {
-  width: 400px;
-  height: auto;
-  border-radius: 12px;
-}
 
-.art figcaption {
-  margin-top: 10px;
-  font-size: 14px;
-  color: #777;
-  font-style: italic;
-}
 
 
